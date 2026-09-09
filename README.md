@@ -1,28 +1,33 @@
 # ¡Hola! Soy Pablo Bellusci 👋
 
-Estudiante de **Data Analytics** enfocado en el procesamiento, análisis exploratorio y visualización de datos para la toma de decisiones.
+Estudiante de **Data Analytics** con experiencia práctica en el sector **Agroindustrial**. 
+Actualmente me desempeño en ZoomAgri, dando soporte técnico y gestión de datos operativos para clientes corporativos del sector agro (Bayer, COFCO, Quilmes), coordinando análisis de campo y calidad en Argentina y ocasionalmente en Paraguay.
 
 ---
 
-### 🚀 Formación Actual
-Actualmente estoy realizando la **Carrera de Data Analytics en Coderhouse**, compuesta por los siguientes módulos:
+### 🌐 Idiomas
+- **Español:** Nativo
+- **Inglés:** Avanzado / C1 / Fluido (1 año de residencia y estudios en Australia)
+
+---
+
+### 🚀 Formación en Data Analytics
+Actualmente realizando la **Carrera de Data Analytics en Coderhouse**:
 
 - [x] **Análisis de Datos con Excel** *(Completado)*
-  - Limpieza de datos, funciones avanzadas, tablas dinámicas y dashboards interactivos.
+  - Limpieza y estructuración de datos, funciones avanzadas, tablas dinámicas y dashboards interactivos.
   - 📌 *TP Final disponible en mis repositorios.*
 - [ ] **Visualización de Datos con Tableau** *(En curso)*
-  - Creación de gráficos avanzados, storyboards e historias visuales interactivas.
+  - Creación de gráficos avanzados, historias visuales interactivas y tableros de control.
 - [ ] **Data, SQL y Gestión de Bases de Datos** *(Próximamente)*
-  - Consultas estructuradas, modelado de datos y bases de datos relacionales.
+  - Consultas estructuradas (DML/DDL), modelado de datos y bases de datos relacionales.
 
 ---
 
 ### 🛠️ Herramientas y Tecnologías
-- **Análisis y Gestión de Datos:** Microsoft Excel (Avanzado)
-- **Visualización de Datos:** Tableau (En proceso de aprendizaje)
-- **Bases de Datos:** SQL (Próximamente)
-
----
+- **Análisis de Datos & Dashboards:** Microsoft Excel (Avanzado) | Tableau (En curso)
+- **Programación & Bases de Datos:** Python (Fundamentos y análisis básico) | SQL (Consultas básicas)
+- **Asistencia & Eficiencia:** Uso de IA para optimización, depuración y estructuración de código.
 
 ### 📂 Proyectos
 - 📊 https://github.com/PabloBellu/Excel-Sales-Analytics-Dashboard:** Análisis práctico desarrollado como Trabajo Final del primer módulo de la carrera.
