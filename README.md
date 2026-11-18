@@ -17,9 +17,9 @@ Actualmente realizando la **Carrera de Data Analytics en Coderhouse**:
 - [x] **Análisis de Datos con Excel** *(Completado)*
   - Limpieza y estructuración de datos, funciones avanzadas, tablas dinámicas y dashboards interactivos.
   - 📌 *TP Final disponible en mis repositorios.*
-- [ ] **Visualización de Datos con Tableau** *(En curso)*
+- [ ] **Visualización de Datos con Tableau** *(Completado)*
   - Creación de gráficos avanzados, historias visuales interactivas y tableros de control.
-- [ ] **Data, SQL y Gestión de Bases de Datos** *(Próximamente)*
+- [ ] **Data, SQL y Gestión de Bases de Datos** *(En Curso)*
   - Consultas estructuradas (DML/DDL), modelado de datos y bases de datos relacionales.
 
 ---
@@ -30,4 +30,5 @@ Actualmente realizando la **Carrera de Data Analytics en Coderhouse**:
 - **Asistencia & Eficiencia:** Uso de IA para optimización, depuración y estructuración de código.
 
 ### 📂 Proyectos
-- 📊 https://github.com/PabloBellu/Excel-Sales-Analytics-Dashboard:** Análisis práctico desarrollado como Trabajo Final del primer módulo de la carrera.
+- Excel: 📊 https://github.com/PabloBellu/Excel-Sales-Analytics-Dashboard
+- Tableau:📊 https://github.com/PabloBellu/Tableau-Dashboard-BD-Autos
